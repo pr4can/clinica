@@ -682,6 +682,10 @@ main section:last-child {
 	transition: 0.3s opacity;
 }
 
+.social__item:hover {
+	opacity: 1;
+}
+
 .social__item-vk {
 	width: 28px;
 	height: 16px;
